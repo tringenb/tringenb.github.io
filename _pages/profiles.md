@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /GUARD/
+title: GUARD Research Group
 description: members of the lab or group
 nav: true
 nav_order: 7
