@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-congratulations-to-madiha-fathima-for-winning-first-place-in-the-poster-competition-at-the-digital-forensics-research-conference-madiha-presented-our-workshop-for-high-school-students-on-identifying-persuasion-strategies-used-in-online-scams",
+          title: 'Congratulations to Madiha Fathima for winning first place in the poster competition at...',
           description: "",
           section: "News",},{id: "news-congratulations-to-rishika-thorat-for-defending-her-thesis-titled-bridging-ai-and-human-expertise-in-cybersecurity-policy-development",
           title: 'Congratulations to Rishika Thorat for defending her thesis titled ‘BRIDGING AI AND HUMAN...',
