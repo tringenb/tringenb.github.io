@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-guarding-users-against-risk-and-deception-guard-research-group",
+          title: "Guarding Users Against Risk and Deception (GUARD) Research Group",
+          description: "_Studying people, tech, and all the ways they collide online._",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/GUARD/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
