@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 _My mission is to protect people online by understanding how human interactions and influence shape the cybercrime ecosystem._
 
 I am an Assistant Professor in Cybersecurity and Cyber Forensics at Purdue University, where I lead the GUARD (Guarding Users Against Risk and Deception) research group. My work is rooted in the field of social cybersecurity, focusing on the human interactions, social influence, and adaptive behaviors that shape the cybercrime ecosystem. I study how cybercriminals, everyday users, law enforcement officers, and vigilantes interact with each other—and with technology—in high-stakes digital environments, with particular emphasis on online child safety, online fraud, vigilante justice, and cybersecurity education.
@@ -37,6 +38,3 @@ I am deeply committed to applied impact. I have developed and delivered training
 Before joining Purdue’s faculty, I was a Computing Innovation Fellow at Indiana University and spent nearly a decade in industry in roles spanning incident response, product security, and data privacy. At Purdue, I have taught both undergraduate and graduate courses in Research Methods and developed new courses in Social Engineering and Cyber Law and Ethics; in Fall 2025, I will launch a new course in Cyber Criminology.
 
 I am always interested in increasing collaborations with community organizations, schools, law enforcement agencies, and fellow researchers to advance the understanding and prevention of cybercrime through a human-centered, socially informed lens.
-
-
-
