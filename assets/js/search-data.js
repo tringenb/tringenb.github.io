@@ -407,16 +407,14 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-congratulations-to-madiha-fathima-for-winning-first-place-in-the-poster-competition-at-the-digital-forensics-research-conference-madiha-presented-our-workshop-for-high-school-students-on-identifying-persuasion-strategies-used-in-online-scams",
+      },{id: "news-congratulations-to-madiha-fathima-for-winning-first-place-in-the-poster-competition-at-the-digital-forensics-research-conference-madiha-presented-our-workshop-for-high-school-students-on-identifying-persuasion-strategies-used-in-online-scams",
           title: 'Congratulations to Madiha Fathima for winning first place in the poster competition at...',
           description: "",
           section: "News",},{id: "news-congratulations-to-rishika-thorat-for-defending-her-thesis-titled-bridging-ai-and-human-expertise-in-cybersecurity-policy-development",
           title: 'Congratulations to Rishika Thorat for defending her thesis titled ‘BRIDGING AI AND HUMAN...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-doetri-ghosh-for-presenting-her-initial-work-on-identifying-the-ways-in-which-scambaiters-use-tools-and-request-support-from-their-community",
+          title: 'Congratulations to Doetri Ghosh for presenting her initial work on identifying the ways...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
