@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+_My mission is to protect people online by understanding how human interactions and influence shape the cybercrime ecosystem._
+
 I am an Assistant Professor in Cybersecurity and Cyber Forensics at Purdue University, where I lead the GUARD (Guarding Users Against Risk and Deception) research group. My work is rooted in the field of social cybersecurity, focusing on the human interactions, social influence, and adaptive behaviors that shape the cybercrime ecosystem. I study how cybercriminals, everyday users, law enforcement officers, and vigilantes interact with each other—and with technology—in high-stakes digital environments, with particular emphasis on online child safety, online fraud, vigilante justice, and cybersecurity education.
 
 A central theme in my research is understanding how persuasion and manipulation influence decision-making in cybercrime contexts, and how these dynamics affect investigations, prevention, and public perception. My doctoral work at Purdue University examined differences in how grooming conversations evolve between offenders and real victims versus offenders and either informal justice actors or law enforcement. This work informed both law enforcement online operations and AI research practices around online grooming detection, emphasizing potential limitations of available datasets within the domain. My dissertation work was also integrated into the CATT tool for detecting grooming risk in online conversations.
@@ -36,8 +38,5 @@ Before joining Purdue’s faculty, I was a Computing Innovation Fellow at Indian
 
 I am always interested in increasing collaborations with community organizations, schools, law enforcement agencies, and fellow researchers to advance the understanding and prevention of cybercrime through a human-centered, socially informed lens.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
