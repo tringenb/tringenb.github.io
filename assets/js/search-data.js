@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-guard-research-group",
+          title: "GUARD Research Group",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/GUARD/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -413,12 +413,10 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-rishika-thorat-for-defending-her-thesis-titled-bridging-ai-and-human-expertise-in-cybersecurity-policy-development",
           title: 'Congratulations to Rishika Thorat for defending her thesis titled ‘BRIDGING AI AND HUMAN...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-congratulations-to-doetri-ghosh-for-presenting-her-initial-work-on-identifying-the-ways-in-which-scambaiters-use-tools-and-request-support-from-their-community",
+          title: 'Congratulations to Doetri Ghosh for presenting her initial work on identifying the ways...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
