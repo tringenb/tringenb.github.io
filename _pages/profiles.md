@@ -8,6 +8,7 @@ nav_order: 7
 
 
 profiles:
+
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
