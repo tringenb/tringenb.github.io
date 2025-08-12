@@ -7,6 +7,7 @@ nav: true
 nav_order: 7
 ---
 
+Test 
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -27,6 +28,4 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
----
-This is a test. 
 ---
