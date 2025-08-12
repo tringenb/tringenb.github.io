@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-research-group",
-          title: "Research Group",
-          description: "_Studying people, tech, and all the ways they collide online._",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/GUARD/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
