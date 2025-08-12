@@ -3,8 +3,6 @@ layout: profiles
 permalink: /GUARD/
 title: Research Group
 description: Studying people, tech, and all the ways they collide online.
-
-this is a test
 nav: true
 nav_order: 7
 ---
@@ -30,3 +28,4 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 ---
+This is a test. 
