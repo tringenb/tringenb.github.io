@@ -1,10 +1,13 @@
 ---
 layout: profiles
 permalink: /GUARD/
-title: Guarding Users Against Risk and Deception (GUARD) Research Group
+title: Research Group
 description: _Studying people, tech, and all the ways they collide online._
 nav: true
 nav_order: 7
+---
+This is a test
+---
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
