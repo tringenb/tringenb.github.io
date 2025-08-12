@@ -7,8 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-Test
-
 profiles:
 
 - align: right
@@ -29,3 +27,5 @@ profiles:
     <p>Your City, State 12345</p>
 
 ---
+
+This is a test.
