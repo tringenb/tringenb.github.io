@@ -7,7 +7,6 @@ nav: true
 nav_order: 7
 ---
 This is a test
----
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
