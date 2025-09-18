@@ -16,7 +16,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
-    image: madiha_website.png
+    image: Madiha_Picture.png
     content: about_Madiha.md
     image_circular: false # crops the image to make it circular
     more_info: >
