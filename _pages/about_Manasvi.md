@@ -1,0 +1,1 @@
+Manasvi Kothakota is a Master’s student specializing in web development. She is currently developing a cybersecurity awareness app designed for older adults, using immersive simulations to teach about emerging scam threats. Manasvi has gained extensive web design experience through a range of research projects.
