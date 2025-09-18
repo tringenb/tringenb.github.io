@@ -20,7 +20,10 @@ profiles:
     content: about_Madiha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-
-
+  - align: right
+    image: Manasvi.png
+    content: about_Manasvi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 
 ---
