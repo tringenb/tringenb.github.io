@@ -1,18 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Online Scam Awareness for Young Adults
+description: 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Social Engineering
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Year after year, reports show that online scams are exploiting more and more people of all age groups. With the increasing utilization of AI for scams, this upward trend has no end in sight. While the technology used in online scams continues to change the underlying manipulation and deception used in scams does not. Through this project, we are building immersive training and resources to help high school students and young adults recognize common persuasion and social engineering tactics used across a range of scams. 
 
     ---
     layout: page
@@ -21,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -78,4 +74,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
