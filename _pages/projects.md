@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current Project Areas and Interests.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Social Engineering]
 horizontal: false
 ---
 
