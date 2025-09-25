@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Current Project Areas and Interests.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -416,9 +416,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-doetri-ghosh-for-presenting-her-initial-work-on-identifying-the-ways-in-which-scambaiters-use-tools-and-request-support-from-their-community",
           title: 'Congratulations to Doetri Ghosh for presenting her initial work on identifying the ways...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-online-scam-awareness-for-young-adults",
+          title: 'Online Scam Awareness for Young Adults',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
