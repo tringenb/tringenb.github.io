@@ -6,7 +6,7 @@ subtitle: <a href='https://polytechnic.purdue.edu/profile/tringenb'>Purdue Unive
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ringenberg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>225 Knoy</p>
