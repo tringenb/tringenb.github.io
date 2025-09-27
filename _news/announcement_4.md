@@ -9,7 +9,7 @@ We had a great time attending the Midwest Security Workshop this year!
 
 <figure class="my-3">
   <img
-    src="{{ '/assets/img/lab_pics/midwestsecurity2025.jpg' | relative_url }}"
+    src="{{ '/assets/img/lab_pics/midwestsecurity2025_cropped.jpg' | relative_url }}"
     alt="GUARD research group at the Fall retreat"
     class="img-fluid w-100 rounded-3 shadow-sm"
     style="max-height:420px; object-fit:cover; object-position:center 40%;"
