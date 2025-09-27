@@ -5,7 +5,7 @@ permalink: /projects/
 description: This section provides a broad overview of a selection of my current research projects and interests.
 nav: true
 nav_order: 3
-display_categories: [Social Engineering]
+display_categories: [Social Engineering, Informal Justice]
 horizontal: false
 ---
 
