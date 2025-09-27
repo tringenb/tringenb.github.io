@@ -5,7 +5,7 @@ description:
 img: assets/img/12.jpg
 importance: 1
 category: Social Engineering
-related_publications: true
+related_publications: false
 ---
 
 My work examines how online scams exploit people across age groups, with a focus on the persistent manipulation and deception tactics that underlie these crimes. Even as scammers adopt new technologies, including AI, the underlying persuasive strategies they use remain consistent.
