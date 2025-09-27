@@ -17,7 +17,7 @@ To counter these threats, I design immersive training and awareness resources th
     {% include figure.liquid path="assets/img/Workshop.jpg" title="learning community" class="img-fluid rounded z-depth-1" %}
   </div>
 <div class="caption">
-    Photos from our delivering our board game-based scam awareness workshop to the Cybersecurity Learning Community here at Purdue. Shortly after this, we adapted the same workshop for high school students at West Lafayette High School. This has been such a great experience and we are excited to keep expanding. 
+    Photo from delivering my board game-based scam awareness workshop with Dr. Paul Thomas to the Cybersecurity Learning Community here at Purdue. Shortly after this, we adapted the same workshop for high school students at West Lafayette High School. This has been such a great experience and we are excited to keep expanding. 
 </div>
 
 
