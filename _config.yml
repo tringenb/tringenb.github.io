@@ -196,6 +196,7 @@ exclude:
   - _pages/repositories.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _pages/posts.md
   - _books/
   - _pages/cv.md
   - _pages/teaching.md
