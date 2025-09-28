@@ -96,6 +96,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/echarts/";
           
         },
+      },{id: "post-a-post-with-chart-js",
+        
+          title: "a post with chart.js",
+        
+        description: "this is what included chart.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/chartjs/";
+          
+        },
       },{id: "post-a-post-with-bibliography",
         
           title: "a post with bibliography",
@@ -182,6 +193,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2021/distill/";
+          
+        },
+      },{id: "post-a-post-with-math",
+        
+          title: "a post with math",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/math/";
           
         },
       },{id: "news-congratulations-to-madiha-fathima-for-winning-first-place-in-the-poster-competition-at-the-digital-forensics-research-conference-madiha-presented-our-workshop-for-high-school-students-on-identifying-persuasion-strategies-used-in-online-scams",
