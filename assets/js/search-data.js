@@ -327,6 +327,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/distill/";
           
         },
+      },{id: "post-a-post-with-twitter",
+        
+          title: "a post with twitter",
+        
+        description: "an example of a blog post with twitter",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/twitter/";
+          
+        },
       },{id: "post-a-post-with-disqus-comments",
         
           title: "a post with disqus comments",
@@ -358,6 +369,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2015/code/";
+          
+        },
+      },{id: "post-a-post-with-images",
+        
+          title: "a post with images",
+        
+        description: "this is what included images could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "news-congratulations-to-madiha-fathima-for-winning-first-place-in-the-poster-competition-at-the-digital-forensics-research-conference-madiha-presented-our-workshop-for-high-school-students-on-identifying-persuasion-strategies-used-in-online-scams",
