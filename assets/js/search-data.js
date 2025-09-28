@@ -173,6 +173,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
+      },{id: "post-a-post-with-tikzjax",
+        
+          title: "a post with TikZJax",
+        
+        description: "this is what included TikZ code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/tikzjax/";
+          
+        },
       },{id: "post-a-post-with-bibliography",
         
           title: "a post with bibliography",
@@ -283,6 +294,17 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
+      },{id: "post-a-post-with-redirect",
+        
+          title: "a post with redirect",
+        
+        description: "you can also redirect to assets like pdf",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/assets/pdf/example_pdf.pdf";
+          
+        },
       },{id: "post-a-post-with-diagrams",
         
           title: "a post with diagrams",
@@ -303,6 +325,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2021/distill/";
+          
+        },
+      },{id: "post-a-post-with-twitter",
+        
+          title: "a post with twitter",
+        
+        description: "an example of a blog post with twitter",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
