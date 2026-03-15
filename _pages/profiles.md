@@ -28,6 +28,7 @@ profiles:
     
 undergrads:
   - content: about_Doetri.md
+  - content: about_Jennifer.md
 
 alumni:
   - year: 2025
