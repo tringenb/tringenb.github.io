@@ -47,15 +47,17 @@ layout: page
     {% endif %}
 
     {% if page.alumni %}
-      <hr>
-      <h2>Alumni</h2>
-      {% for person in page.alumni %}
-        <div class="clearfix" style="margin-bottom: 1rem;">
-          <strong>{{ person.name }}</strong>
-          <p>{{ person.bio }}</p>
-        </div>
-      {% endfor %}
-    {% endif %}
+  <hr>
+  <h2>Alumni</h2>
+  {% for cohort in page.alumni %}
+    <h4>{{ cohort.year }}</h4>
+    {% for person in cohort.graduates %}
+      <div class="clearfix" style="margin-bottom: 0.5rem;">
+        <strong>{{ person.name }}</strong> — {{ person.bio }}
+      </div>
+    {% endfor %}
+  {% endfor %}
+{% endif %}
 
   </article>
 </div>
