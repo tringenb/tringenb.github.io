@@ -50,12 +50,20 @@ layout: page
   <hr>
   <h2>Alumni</h2>
   {% for cohort in page.alumni %}
-    <h4>{{ cohort.year }}</h4>
-    {% for person in cohort.graduates %}
-      <div class="clearfix" style="margin-bottom: 0.5rem;">
-        <strong>{{ person.name }}</strong> — {{ person.bio }}
+    <details style="margin-bottom: 0.75rem;">
+      <summary style="font-size: 1.1em; font-weight: bold; cursor: pointer;">
+        {{ cohort.year }}
+      </summary>
+      <div style="padding-left: 1rem; margin-top: 0.5rem;">
+        {% for person in cohort.graduates %}
+          <div style="margin-bottom: 0.75rem;">
+            <span style="font-weight: bold;">{{ person.name }}</span>
+            {% if person.thesis %} — {{ person.thesis }}{% endif %}
+            {% if person.bio %}<br><span>{{ person.bio }}</span>{% endif %}
+          </div>
+        {% endfor %}
       </div>
-    {% endfor %}
+    </details>
   {% endfor %}
 {% endif %}
 
