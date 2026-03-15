@@ -34,7 +34,7 @@ alumni:
     bio: "MS 2025. **Thesis:** Bridging AI and Human Expertise in Cybersecurity Policy Development"
   - name: Selena Paik
     bio: "MS 2024. **Thesis:** Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
-  -name: Nidhi Bhardwaj
+  - name: Nidhi Bhardwaj
     bio: "MS 2024."
   - name: Renusree Mudduluru
     bio: "Co Chaird MS 2024. **Thesis:** Exploring Factors Influencing Adoption and Usage of Privacy-Enhancing Tools Among Smartphone Users"
