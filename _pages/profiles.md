@@ -30,6 +30,18 @@ undergrads:
   - content: about_Doetri.md
 
 alumni:
+  -name: Rishika Thorat
+    bio: "MS 2025. **Thesis:** Bridging AI and Human Expertise in Cybersecurity Policy Development"
   - name: Selena Paik
-    bio: "MS 2025. Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
+    bio: "MS 2024. **Thesis:** Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
+  -name: Nidhi Bhardwaj
+    bio: "MS 2024."
+  - name: Renusree Mudduluru
+    bio: "Co-Chaired MS 2024. **Thesis:** Exploring Factors Influencing Adoption and Usage of Privacy-Enhancing Tools Among Smartphone Users"
+  - name: Motunrola Afolabi
+    bio: "Co-Chaired MS 2024. **Thesis:** Digital Literacy and the Perceptions of Online Grooming"
+  - name: Sweta Kesur
+    bio: "Co-Chaired MS 2024."
+  - name: Siva Simhadri
+    bio:  "MS 2023. **Thesis: Investigating Offender Typologies and Victim Vulnerabilities in Online Child Grooming**"
 ---
