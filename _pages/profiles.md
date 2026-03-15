@@ -33,26 +33,22 @@ undergrads:
 alumni:
   - year: 2025
     graduates:
-      - name: Rishika Thorat
+      - name: Rishika Thorat, MS
         thesis: "Bridging AI and Human Expertise in Cybersecurity Policy Development"
   - year: 2024
     graduates:
-      - name: Selena Paik
+      - name: Selena Paik, MS
         thesis: "Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
-      - name: Nidhi Bhardwaj
-        bio: "Co-Chaired MS."
-      - name: Renusree Mudduluru
+      - name: Nidhi Bhardwaj, MS
+      - name: Renusree Mudduluru, MS, Co Chaired with Dr. Marc Rogers
         thesis: "Exploring Factors Influencing Adoption and Usage of Privacy-Enhancing Tools Among Smartphone Users"
-        bio: "Co-Chaired."
-      - name: Motunrola Afolabi
+      - name: Motunrola Afolabi, MS, Co Chaired with Dr. Marc Rogers
         thesis: "Digital Literacy and the Perceptions of Online Grooming"
-        bio: "Co-Chaired."
-      - name: Sweta Kesur
-        bio: "Co-Chaired."
+      - name: Sweta Kesur, MS, Co Chaired with Dr. Julia Rayz
   - year: 2023
     graduates:
-      - name: Siva Simhadri
+      - name: Siva Simhadri, MS
         thesis: "Investigating Offender Typologies and Victim Vulnerabilities in Online Child Grooming"
-      - name: Gaurav Sachdev
+      - name: Gaurav Sachdev, MS, Co Chaired with Dr. Eric Dietz
         thesis: "Ranking Social Engineering attack vectors in the healthcare and public health sector"
 ---
