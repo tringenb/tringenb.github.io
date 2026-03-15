@@ -1,0 +1,1 @@
+**Doetri Ghosh** is an undergraduate student studying cybersecurity and digital forensics. Deotri research interest span various socio-technical domains including online fraud, informal justice actors, and video games for cybersecurity education. Doetri is also spearheading GUARD's new research dissemination initivatives. Stay tuned for more!
