@@ -31,5 +31,5 @@ undergrads:
 
 alumni:
   - name: Selena Paik
-    bio: "MS 2025. "Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
+    bio: "MS 2025. Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
 ---
