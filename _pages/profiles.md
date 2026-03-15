@@ -30,7 +30,7 @@ undergrads:
   - content: about_Doetri.md
 
 alumni:
-  -name: Rishika Thorat
+  - name: Rishika Thorat
     bio: "MS 2025. **Thesis:** Bridging AI and Human Expertise in Cybersecurity Policy Development"
   - name: Selena Paik
     bio: "MS 2024. **Thesis:** Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
