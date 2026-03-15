@@ -1,1 +1,1 @@
-**Jennifer Harvey ** is an undergraduate student studying networking and cybersecurity. Jennifer's research interests include online fraud, online child safety, cybersecurity education, and honeypots for cybersecurity research. 
+**Jennifer Harvey** is an undergraduate student studying networking and cybersecurity. Jennifer's research interests include online fraud, online child safety, cybersecurity education, and honeypots for cybersecurity research. 
