@@ -25,4 +25,11 @@ profiles:
     content: about_Manasvi.md
     image_circular: false # crops the image to make it circular
     more_info: >
+    
+undergrads:
+  - content: about_Doetri.md
+
+alumni:
+  - name: Selena Paik
+    bio: "MS 2025. Thesis Title: "Analyzing Large Language Models For Classifying Sexual Harassment Stories With Out-of-Vocabulary Word Substitution"
 ---
