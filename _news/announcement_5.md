@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2026-03-15
+inline: true
+related_posts: false
+---
+Checkout our video on the Cyberforensics Lab at Purdue, featured at the 2026 American Academy of Forensic Sciences Conference! 
 <div class="my-3">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
