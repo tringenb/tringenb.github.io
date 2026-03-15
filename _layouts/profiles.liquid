@@ -35,10 +35,13 @@ layout: page
     {% if page.undergrads %}
       <hr>
       <h2>Undergraduate Researchers</h2>
-      {% for student in page.undergrads %}
-        <div class="clearfix" style="margin-bottom: 1rem;">
-          <strong>{{ student.name }}</strong>
-          <p>{{ student.bio }}</p>
+      {% for profile in page.undergrads %}
+        <hr>
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% endif %}
         </div>
       {% endfor %}
     {% endif %}
